@@ -1,7 +1,7 @@
 [
   {
     "name": "mindustry.pl",
-    "address": ["mindustry.pl:6000", "mindustry.pl:6666", "mindustry.pl:6006"]
+    "address": ["mindustry.pl:6000", "mindustry.pl:6666"]
   },
    {
     "name": "Atanner",
@@ -34,5 +34,9 @@
   {
     "name": "mindustry.ddns.net",
     "address": ["mindustry.ddns.net:1000", "mindustry.ddns.net:2000", "mindustry.ddns.net:3000", "mindustry.ddns.net:4000"]
+  },
+  {
+    "name": "Gearblock",
+    "address": ["attack.gearblock.app"]
   }
 ]
